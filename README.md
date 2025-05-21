@@ -6,27 +6,13 @@ We validated the navigation capabilities of the proposed method in indoor enviro
 
 ## DiscoNav (Ours)
 
-<p>Laboratory</p>
+<p>Experiment-1</p>
 <video src="https://github.com/user-attachments/assets/02b56aec-6f40-4f41-917f-92e0d9e2ab04"></video>
-
-<p>On HM3D</p>
+<p>Experiment-2</p>
+<video src="https://github.com/user-attachments/assets/1700fc5e-a962-4d1b-8c88-6594ab1e0881"></video>
+<p>Experiment-3</p>
+<video src="https://github.com/user-attachments/assets/907da1b9-2045-4762-bc88-594e2e6c22e5"></video>
+<p>Experiment-4</p>
+<video src="https://github.com/user-attachments/assets/418b8ad8-d768-4a37-a4c9-25081cf89c1c"></video>
+<p>Experiment-5</p>
 <video src="https://github.com/AnonymousAccount-6F03/ICML-Visualizations-16380/assets/26027895-cadd-4b7b-9f49-0b1f1b4ca172"></video>
-
-<p>On MP3D</p>
-<video src="https://github.com/AnonymousAccount-6F03/ICML-Visualizations-16380/assets/73308315-435a-4729-a749-f42cbb98c2de"></video>
-
-## Comparison Methods
-
-<p>MemAug (MEZGHAN ET AL., 2022)</p>
-<video src="https://github.com/AnonymousAccount-6F03/ICML-Visualizations-16380/assets/8fafb522-df45-438d-8246-5dd191233376"></video>
-
-<p>ZER (AL-HALAH ET AL., 2022)</p>
-<video src="https://github.com/AnonymousAccount-6F03/ICML-Visualizations-16380/assets/07fdae67-dfb8-41c0-b53e-8bc6a9332e04"></video>
-
-<p>TSGM (KIM ET AL., 2023)</p>
-<video src="https://github.com/AnonymousAccount-6F03/ICML-Visualizations-16380/assets/5d783a77-cc57-4c5a-b362-6414b242c95f"></video>
-
-## Failure Cases
-
-<p>Some failure cases</p>
-<video src="https://github.com/AnonymousAccount-6F03/ICML-Visualizations-16380/assets/36fa9439-a5a7-4f44-ac14-0726f0e614c5"></video>
