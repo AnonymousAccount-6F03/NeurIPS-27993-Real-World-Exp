@@ -1,6 +1,6 @@
 # Real-World Exprements for NeurIPS-Submission-27993
 
-We demonstrate the performance of our RL-based navigation algorithm (DiscoNav) in real world.
+We validated the navigation capabilities of the proposed method in indoor environments, including laboratory and corridor settings. Our approach demonstrated the ability to autonomously explore, avoid obstacles, and navigate toward targets, exhibiting promising sim-to-real generalization capabilities.
 
 (Please refresh if videos won't load or play.)
 
