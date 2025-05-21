@@ -9,7 +9,7 @@ We validated the navigation capabilities of the proposed method in indoor enviro
 <p>Experiment-1 (Laboratory)</p>
 <video src="https://github.com/user-attachments/assets/02b56aec-6f40-4f41-917f-92e0d9e2ab04"></video>
 <p>Experiment-2 (Laboratory)</p>
-<video src="https://github.com/user-attachments/assets/1700fc5e-a962-4d1b-8c88-6594ab1e0881"></video>
+<video src="https://github.com/user-attachments/assets/c442f8ad-9a4c-4894-a093-78138826fd8c"></video>
 <p>Experiment-3 (Laboratory)</p>
 <video src="https://github.com/user-attachments/assets/907da1b9-2045-4762-bc88-594e2e6c22e5"></video>
 <p>Experiment-4 (Laboratory)</p>
