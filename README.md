@@ -6,8 +6,8 @@ We validated the navigation capabilities of the proposed method in indoor enviro
 
 ## DiscoNav (Ours)
 
-<p>On Gibson</p>
-<video src="https://github.com/AnonymousAccount-6F03/ICML-Visualizations-16380/assets/d91dad38-5182-4cbc-a71c-d4b0ec847245"></video>
+<p>Laboratory</p>
+<video src="https://github.com/user-attachments/assets/02b56aec-6f40-4f41-917f-92e0d9e2ab04"></video>
 
 <p>On HM3D</p>
 <video src="https://github.com/AnonymousAccount-6F03/ICML-Visualizations-16380/assets/26027895-cadd-4b7b-9f49-0b1f1b4ca172"></video>
